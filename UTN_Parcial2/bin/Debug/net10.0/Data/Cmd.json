@@ -1,0 +1,12 @@
+{
+  "walk": "Walk",
+  "move": "Walk",
+  "mv": "Walk",
+  "look": "Rotate",
+  "rotate": "Rotate",
+  "rot": "Rotate",
+  "wait": "Wait",
+  "interact": "Interact",
+  "open": "Interact",
+  "grab": "Interact"
+}

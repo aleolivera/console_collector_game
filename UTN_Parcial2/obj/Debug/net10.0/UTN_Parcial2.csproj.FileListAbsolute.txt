@@ -1,0 +1,17 @@
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\UTN_Parcial2.exe
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\UTN_Parcial2.deps.json
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\UTN_Parcial2.runtimeconfig.json
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\UTN_Parcial2.dll
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\UTN_Parcial2.pdb
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\UTN_Parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\UTN_Parcial2.AssemblyInfoInputs.cache
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\UTN_Parcial2.AssemblyInfo.cs
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\UTN_Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\UTN_Parcial2.dll
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\refint\UTN_Parcial2.dll
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\UTN_Parcial2.pdb
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\UTN_Parcial2.genruntimeconfig.cache
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\ref\UTN_Parcial2.dll
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\Data\Cmd.json
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\Data\EntityMap.json
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\Data\Locale.json

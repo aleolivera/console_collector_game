@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "UTN_Parcial2/1.0.0": {
+        "runtime": {
+          "UTN_Parcial2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTN_Parcial2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
