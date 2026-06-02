@@ -15,3 +15,4 @@ C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\ref\UT
 C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\Data\Cmd.json
 C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\Data\EntityMap.json
 C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\bin\Debug\net10.0\Data\Locale.json
+C:\Users\User\Repositorios\C#\UTN_Parcial2\UTN_Parcial2\obj\Debug\net10.0\UTN_Parcial2.sourcelink.json

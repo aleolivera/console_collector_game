@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTN_Parcial2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce65e88ee87d6d4aca105b9c2817b92c8a7854f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTN_Parcial2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTN_Parcial2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,6 +13,11 @@ namespace UTN_Parcial2 {
             game.OnTurnEnd += Game_OnTurnEnd;
             game.LoadData(saveSystem.SaveDirectory);
             game.Run();
+
+            Console.Clear();
+            Console.WriteLine("Thank you for playing!");
+            Console.WriteLine("Press any key...");
+            Console.ReadKey();
         }
 
         private static void Game_OnTurnEnd(GameState obj) {
